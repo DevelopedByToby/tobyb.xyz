@@ -35,7 +35,7 @@
     "react-hot-toast": "^2.2.0",
     "react-text-loop-next": "^0.0.3",
     "resolve-url-loader": "^4.0.0",
-    "sass": "^1.48.0",
+    "sass": "1.54.0",
     "swr": "^1.2.2",
     "typescript": "^4.6.2",
     "use-lanyard": "^1.1.0"
